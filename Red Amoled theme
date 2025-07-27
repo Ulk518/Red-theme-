@@ -1,10 +1,10 @@
 {
-	"name": "RBW AMOLED RISKY",
+	"name": "𐌌Risky AMOLED",
 	"description": "AMOLED black base, using red, white & grey for everything else",
 	"version": "1",
 	"authors": [
 		{
-			"name": "𝓡3 ᝰᐟ𐌌♤Riskyᯓ✦",
+			"name": "ᝰᐟ𐌌♤Riskyᯓ✦",
 			"id": "1113130615630471290"
         }
     ],
@@ -45,10 +45,10 @@
             "#2A2A2A"
         ],
 		"BACKGROUND_PRIMARY": [
-            "https://pomf2.lain.la/f/310p2zkb.png"
+            "#000000"
         ],
 		"BACKGROUND_SECONDARY": [
-            "https://pomf2.lain.la/f/310p2zkb.png"
+            "#000000"
         ],
 		"BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -168,7 +168,7 @@
             "#FFFFFF"
         ],
 		"CHAT_BACKGROUND": [
-            "#000000"
+            "https://pomf2.lain.la/f/310p2zkb.png"
         ],
 		"CARD_PRIMARY_BG": [
             "#000000"
